@@ -17,7 +17,7 @@ public class Familia {
         System.out.println(
                 "El papá es: " + this.papa.nombre +
                         "\nLa mamá es: " + this.mama.nombre +
-                        "\nEl hijo es: " + (this.hijo != null ? this.hijo.nombre : "Ninguno")
+                        "\nEl hijo es: " + (this.hijo != null ? this.hijo.nombre : "no sirve")
         );
     }
 
